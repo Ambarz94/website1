@@ -47,6 +47,12 @@ a{
 	overflow: hidden;
 	padding: 20px;
 }
+
+#main-section .iklan img{
+	overflow: hidden;
+	background: red;
+	width: 100%;
+}
 #main-section .post{
 	overflow: hidden;
 	padding: 20px;
